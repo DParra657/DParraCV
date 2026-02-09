@@ -1,2 +1,0 @@
-# DParraCV
-Web Programming CV
